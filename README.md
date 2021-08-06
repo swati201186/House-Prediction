@@ -5,4 +5,5 @@ Machine learning model which predict prices of house based on given criteria fea
 
 1. Python
 2. Flask
-3 sci-kit learn
+3. sci-kit learn
+
